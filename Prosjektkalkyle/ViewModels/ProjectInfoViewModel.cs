@@ -14,7 +14,6 @@ namespace Prosjektkalkyle.ViewModels
 
         public ProjectInfoViewModel()
         {
-            MessageBox.Show("lol");
         }
     }
 }
