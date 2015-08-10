@@ -13,7 +13,8 @@ namespace Prosjektkalkyle.ViewModels
     {
 
         public ProjectInfoViewModel()
-        {
+        { 
+            //Her skal førstegangsoppsett av xml-fil være
         }
     }
 }
